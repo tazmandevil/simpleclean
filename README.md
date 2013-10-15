@@ -1,4 +1,0 @@
-simpleclean
-===========
-
-simpleClean dokuwiki template
