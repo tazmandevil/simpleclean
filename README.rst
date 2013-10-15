@@ -26,7 +26,7 @@ Installation
 
   1. Download the simpleClean template zip-file
   #. Unpack it into *<dokuwiki>/lib/tpl/* directory
-  #. Change template parameter to mmclean in *<dokuwiki>/conf/local.php* file
+  #. Change template parameter to simpleClean in *<dokuwiki>/conf/local.php* file
 
     :: 
 
@@ -59,7 +59,7 @@ File structure
     |-+ projects      
       |-- menu1.txt    [1]
       |-- menu2.txt    [2]
-      |-- mmclean 
+      |-- simpleClean 
 
 
 menu1.txt
@@ -98,7 +98,7 @@ http://github.com/tazmandevil/simpleclean
 Source Code
 =======================================
 
-Source code is available on http://github.com/zenzire/mmclean/
+Source code is available on http://github.com/tazmandevil/simpleclean
 
 
 Changelog
