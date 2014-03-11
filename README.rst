@@ -7,7 +7,7 @@ including menu, keywords and description.
 
 .. _DokuWiki: http://www.dokuwiki.org
 
-.. image:: http://wiki.tazmandevil.info/lib/exe/fetch.php?media=webhax:101513171245.jpg
+.. image:: http://taz.liberame.org/wiki/lib/exe/fetch.php?media=webhax:101513171245.jpg
    :align: center
 
 simpleClean has the following features 
@@ -109,4 +109,4 @@ Version 0.1 - released 15 October 2013
 Authors
 =======
 
- - Tazman DeVille - http://tazmandevil.info
+ - Tazman DeVille - http://taz.liberame.org
