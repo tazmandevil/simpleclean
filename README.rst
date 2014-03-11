@@ -19,7 +19,7 @@ simpleClean has the following features
 Selected Users:
 =============================
 
-  - http://wiki.tazmandevil.info
+  - http://taz.liberame.org/wiki/
 
 Installation
 =============================
