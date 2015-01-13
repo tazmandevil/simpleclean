@@ -23,7 +23,7 @@ $conf['tpl_simpleClean']['description'] = 'page description';
  * If you remove the wikibar below, a login link might be useful
  */
 // $conf['tpl_simpleClean']['footer'] = '<a href="http://tazmandevil.info">home</a> | <a href="http://wiki.tazmandevil.info">wiki</a> | <a href="doku.php?do=login">login</a>';
-$conf['tpl_simpleClean']['footer'] = '<a href="http://wiki.tazmandevil.info/doku.php?id=webhax:simpleclean">simpleClean dokuwiki template</a> | <a href="doku.php?do=login">login</a>';
+$conf['tpl_simpleClean']['footer'] = '<a href="http://taz.liberame.org/wiki/doku.php?id=simpleclean">simpleClean dokuwiki template</a> | <a href="doku.php?do=login">login</a>';
 
 /** 
  * Set the menu2 to be permanent (menu2.txt is taken from main directory)
