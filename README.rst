@@ -7,7 +7,7 @@ including menu, keywords and description.
 
 .. _DokuWiki: http://www.dokuwiki.org
 
-.. image:: http://taz.liberame.org/wiki/lib/exe/fetch.php?media=webhax:101513171245.jpg
+.. image:: http://taz.liberame.org/imgs/simplecleanshot.jpg
    :align: center
 
 simpleClean has the following features 
@@ -20,6 +20,7 @@ Selected Users:
 =============================
 
   - http://taz.liberame.org/wiki/
+  - http://wiki.tonybaldwin.me
 
 Installation
 =============================
